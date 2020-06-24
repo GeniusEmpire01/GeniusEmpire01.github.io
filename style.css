@@ -1,0 +1,20 @@
+body {
+  background: darkkhaki;
+}
+p {
+  color: darkgreen;
+  font-family: cursive;
+}
+h1 {
+  font-weight: bold;
+  font-family: inherit;
+  text-decoration: underline;
+  color:darkgreen;
+}
+img {margin: px;
+     width: 400px;
+     float: center;
+     border-style:solid;
+     border-color: darkblue;
+     border-radius:15px;
+}
